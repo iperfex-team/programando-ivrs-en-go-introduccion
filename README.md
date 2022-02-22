@@ -13,8 +13,6 @@
 
 ## Clase: Programando IVRs en Go - Introducción
 
-Detalles:
-
 En esta clase se mostrará cómo desarrollar un IVR básico programado en el Lenguaje Go (golang), en un Servidor FASTAGI de Asterisk. De la mano del Equipo de **iPERFEX** liderado por su CTO **Federico Pereira**.
 
 Esta es una clase introductoria válida para el MasterClass Programando IVRs en Go.
