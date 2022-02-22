@@ -14,6 +14,7 @@ RUN apk add --no-cache \
         asterisk-sounds-moh \
         unzip \
 	util-linux \
+	vim \
         && echo "asterisk -rvvvvvvvvvvvvvvvvv" > /usr/sbin/a && chmod +x /usr/sbin/a \
 	&& echo "! installation is finished !"
 
