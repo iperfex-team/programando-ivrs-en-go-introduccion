@@ -8,7 +8,7 @@
  Pablo Miranda <pmiranda@iperfex.com>
 
 
-![Gopher](https://github.com/iperfex-team/programando-ivrs-en-go-introduccion-libre/blob/main/images/golang_gopher-logo1.png)
+![Gopher](https://github.com/iperfex-team/programando-ivrs-en-go-introduccion/blob/main/images/golang_gopher-logo1.png)
 
 
 ## Clase: Programando IVRs en Go - Introducción
@@ -23,4 +23,4 @@ Durante 40 min, realizaremos un Hands-on de cómo implementar un IVR a través d
 
 ### Wiki
 
-[WIKI DEL CLASE](https://github.com/iperfex-team/programando-ivrs-en-go-introduccion-libre/wiki)
+[WIKI DEL CLASE](https://github.com/iperfex-team/programando-ivrs-en-go-introduccion/wiki)
