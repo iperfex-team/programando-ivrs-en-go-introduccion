@@ -1,7 +1,6 @@
 ![iPERFEX](https://www.iperfex.com/wp-content/uploads/2019/01/iPerfex_logo_naranja-e1546949425459.png)
 
-# programando-ivrs-en-go-Introduccion-libre
-Programando IVRs en Go - Introducción
+# Programando IVRs en Go - Introducción
 
 
  Federico Pereira <fpereira@iperfex.com>
