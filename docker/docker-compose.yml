@@ -12,7 +12,7 @@ services:
       - 8011:8011
     volumes:
       - /etc/localtime:/etc/localtime:ro
-      - ./code:/home/go/src/fastagi
+      - ./../code:/home/go/src/fastagi
       - ./build/fastagi/audios:/audios
     stdin_open: true
     tty: true
