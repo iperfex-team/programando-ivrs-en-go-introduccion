@@ -2,8 +2,8 @@ version: '3.6'
 services:
 
   fastagi:
-    #image: cnsoluciones/fastagi
-    image: cnsoluciones/fastagi-dev
+    #image: fastagi
+    image: fastagi-dev
     container_name: fastagi
     hostname: fastagi
     restart: always
@@ -18,7 +18,7 @@ services:
     tty: true
 
   voip:
-    image: cnsoluciones/asterisk-iax2
+    image: asterisk-iax2
     container_name: voip
     hostname: voip
     restart: always
