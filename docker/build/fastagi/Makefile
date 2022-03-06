@@ -1,5 +1,5 @@
 DOCKER ?= docker
-TARGET ?= cnsoluciones/fastagi
+TARGET ?= fastagi
 
 all:
 	@echo "Building ${TARGET}"
