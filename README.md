@@ -8,6 +8,7 @@
  
  Pablo Miranda <pmiranda@iperfex.com>
 
+**iPERFEX TODOS LOS DERECHOS RESERVADOS**
 
 ![Gopher](https://github.com/iperfex-team/programando-ivrs-en-go-introduccion/blob/main/images/golang_gopher-logo1.png)
 
