@@ -25,6 +25,7 @@ services:
     privileged: true
     ports:
       - 4569:4569/udp
+    tty: true
     working_dir: /etc/asterisk
     depends_on:
       - fastagi 
